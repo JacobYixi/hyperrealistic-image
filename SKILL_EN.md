@@ -1,6 +1,6 @@
 ---
 name: hyperrealistic-image-en
-description: Generate hyperrealistic, everyday-looking photos. Core principle: writing "realistic" or "photo" just triggers an AI style. You need specific devices, shooting logic, imperfections, and the "Golden Three-Part Prompt Structure" to make images that look like they were actually taken by a real person. Triggered by keywords like "real photo", "looks like a snapshot", "film feel", "candid", "old photo", "street photography", "imperfect".
+description: 'Generate hyperrealistic, everyday-looking photos. Core principle: writing "realistic" or "photo" just triggers an AI style. You need specific devices, shooting logic, imperfections, and the "Golden Three-Part Prompt Structure" to make images that look like they were actually taken by a real person. Triggered by keywords like "real photo", "looks like a snapshot", "film feel", "candid", "old photo", "street photography", "imperfect".'
 category: ["Image & Design"]
 ---
 
