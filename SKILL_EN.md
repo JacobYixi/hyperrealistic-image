@@ -8,7 +8,7 @@ category: ["Image & Design"]
 
 ## Language / 语言
 
-This is the English version. 中文版（针对中国场景优化）: [`SKILL_ZH.md`](SKILL_ZH.md)
+This is the English version. 中文版（针对中国场景优化）: [`SKILL.md`](SKILL.md)
 
 ## Attribution & Inspiration
 
