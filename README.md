@@ -37,13 +37,13 @@
 | 00年代 | 偏黄 | 明显 | 一般 | 山寨手机、卡片机 |
 | 10年代 | 不黄 | 几乎无 | 较好 | 早期智能手机 |
 
-## 文件说明
+## Files
 
-- `SKILL.md` — 技能指令文件（中文），包含完整的提示词方法论和9个实战验证示例
-- `SKILL_EN.md` — English skill instructions, full methodology with 5 verified examples
-- `main.py` — Python 提示词优化器，自动检测风格/年代/真实度并生成优化提示词
+- `SKILL.md` — Skill instructions (**English**, default entry point). Full methodology with 5 verified examples
+- `SKILL_ZH.md` — 技能指令（中文版），针对中国场景/人脸/文化语境优化，含9个实战验证示例
+- `main.py` — Python prompt optimizer, auto-detects style/era/realism level
 
-## 使用方式
+## Usage
 
 ### 方式一：作为 Agent Skill 使用
 将本仓库的 `SKILL.md` 放入你的 Agent Skill 目录，Agent 会自动读取并按照方法论生成提示词。
