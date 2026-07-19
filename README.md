@@ -62,10 +62,6 @@ Writing "realistic" or "photo" just triggers an AI style. To generate true photo
 
 Inspired by [this Bilibili video](https://www.bilibili.com/video/BV1ku7R6iE54). 6 scenes, 40+ rounds of testing.
 
-### License
-
-MIT
-
 ---
 
 ## 中文
@@ -125,7 +121,3 @@ MIT
 ### 灵感来源
 
 灵感来源于 B 站视频：[豆包也能生成超真实图片！](https://www.bilibili.com/video/BV1ku7R6iE54)。6个场景、40+轮实测迭代。
-
-### License
-
-MIT
