@@ -39,8 +39,8 @@
 
 ## Files
 
-- `SKILL.md` — Skill instructions (**English**, default entry point). Full methodology with 5 verified examples
-- `SKILL_ZH.md` — 技能指令（中文版），针对中国场景/人脸/文化语境优化，含9个实战验证示例
+- `SKILL.md` — 技能指令（**中文，默认入口**），包含完整方法论和9个实战验证示例。Coze/中文Agent直接加载此文件
+- `SKILL_EN.md` — English skill instructions, full methodology with 5 verified examples. For international agents
 - `main.py` — Python prompt optimizer, auto-detects style/era/realism level
 
 ## Usage
