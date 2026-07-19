@@ -39,7 +39,8 @@
 
 ## 文件说明
 
-- `SKILL.md` — 技能指令文件，包含完整的提示词方法论和9个实战验证示例
+- `SKILL.md` — 技能指令文件（中文），包含完整的提示词方法论和9个实战验证示例
+- `SKILL_EN.md` — English skill instructions, full methodology with 5 verified examples
 - `main.py` — Python 提示词优化器，自动检测风格/年代/真实度并生成优化提示词
 
 ## 使用方式
